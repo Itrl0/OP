@@ -9,7 +9,7 @@ namespace OP
     public class RecipeManager
     {
         public List<Recipe> Recipes { get; private set; }
-
+        public User CurrentUser { get; set; }
         public RecipeManager()
         {
             Recipes = new List<Recipe>();
@@ -17,7 +17,7 @@ namespace OP
 
         public void AddRecipe(Recipe recipe)
         {
-            if (user is AdminUser)
+            if (CurrentUser is AdminUser)
             {
                 Recipes.Add(recipe);
             }

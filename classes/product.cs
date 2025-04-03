@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace  SmartFridge
+namespace  OP
 {
     public class Product
     {
         public string Name { get; set; }
         public int Quantity { get; set; }
+        public DateTime ExpiryDate { get; set; }
 
         public Product(string name, int quantity)
         {
