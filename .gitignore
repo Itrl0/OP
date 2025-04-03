@@ -1,2 +1,3 @@
 .vs/
-.obj/Debug/
+obj/Debug/net8.0-windows/OP.AssemblyInfo.cs
+obj/Debug/net8.0-windows/OP.AssemblyInfoInputs.cache
