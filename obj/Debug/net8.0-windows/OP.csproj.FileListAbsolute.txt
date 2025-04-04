@@ -20,3 +20,15 @@ C:\Users\mtomk\source\repos\OP\obj\Debug\net8.0-windows\refint\OP.dll
 C:\Users\mtomk\source\repos\OP\obj\Debug\net8.0-windows\OP.pdb
 C:\Users\mtomk\source\repos\OP\obj\Debug\net8.0-windows\OP.genruntimeconfig.cache
 C:\Users\mtomk\source\repos\OP\obj\Debug\net8.0-windows\ref\OP.dll
+C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\OP.Properties.Resources.resources
+C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\OP.Registr.resources
+C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\OP.RgistrationForm.resources
+C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\OP.csproj.GenerateResource.cache
+C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\OP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\OP.AssemblyInfoInputs.cache
+C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\OP.AssemblyInfo.cs
+C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\OP.csproj.CoreCompileInputs.cache
+C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\OP.sourcelink.json
+C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\OP.dll
+C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\refint\OP.dll
+C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\OP.pdb
