@@ -38,7 +38,7 @@
             label3 = new Label();
             Exit = new Button();
             buttonRegist = new Button();
-            label4 = new Label();
+            closeButton = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
@@ -48,7 +48,7 @@
             label1.AutoSize = true;
             label1.Font = new Font("Sitka Small", 18F, FontStyle.Bold, GraphicsUnit.Point, 204);
             label1.ForeColor = Color.Crimson;
-            label1.Location = new Point(273, 45);
+            label1.Location = new Point(308, 23);
             label1.Name = "label1";
             label1.Size = new Size(229, 44);
             label1.TabIndex = 1;
@@ -57,9 +57,9 @@
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(172, 131);
+            pictureBox1.Location = new Point(190, 131);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(88, 70);
+            pictureBox1.Size = new Size(70, 61);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 2;
             pictureBox1.TabStop = false;
@@ -67,9 +67,9 @@
             // pictureBox2
             // 
             pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
-            pictureBox2.Location = new Point(172, 232);
+            pictureBox2.Location = new Point(190, 229);
             pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(88, 72);
+            pictureBox2.Size = new Size(70, 62);
             pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox2.TabIndex = 3;
             pictureBox2.TabStop = false;
@@ -122,6 +122,7 @@
             Exit.TabIndex = 8;
             Exit.Text = "Увійти";
             Exit.UseVisualStyleBackColor = true;
+            Exit.Click += Exit_Click;
             // 
             // buttonRegist
             // 
@@ -137,23 +138,32 @@
             buttonRegist.Text = "Зареєструватись";
             buttonRegist.UseVisualStyleBackColor = true;
             // 
-            // label4
+            // closeButton
             // 
-            label4.AutoSize = true;
-            label4.Font = new Font("Sitka Small", 9F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            label4.Location = new Point(386, 351);
-            label4.Name = "label4";
-            label4.Size = new Size(38, 23);
-            label4.TabIndex = 10;
-            label4.Text = "Або";
+            closeButton.BackColor = SystemColors.ButtonFace;
+            closeButton.Cursor = Cursors.Hand;
+            closeButton.FlatAppearance.BorderColor = Color.Gainsboro;
+            closeButton.FlatStyle = FlatStyle.Flat;
+            closeButton.Font = new Font("Sitka Small", 7.8F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            closeButton.Location = new Point(707, 23);
+            closeButton.Name = "closeButton";
+            closeButton.Size = new Size(79, 35);
+            closeButton.TabIndex = 11;
+            closeButton.Text = "Закрити";
+            closeButton.UseVisualStyleBackColor = false;
+            closeButton.Click += closeButton_Click;
+            closeButton.MouseDown += closeButton_MouseDown;
+            closeButton.MouseUp += closeButton_MouseUp;
             // 
             // Registr
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = SystemColors.Menu;
-            ClientSize = new Size(809, 450);
-            Controls.Add(label4);
+            BackColor = Color.White;
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            CancelButton = closeButton;
+            ClientSize = new Size(814, 439);
+            Controls.Add(closeButton);
             Controls.Add(buttonRegist);
             Controls.Add(Exit);
             Controls.Add(label3);
@@ -166,6 +176,8 @@
             FormBorderStyle = FormBorderStyle.None;
             Name = "Registr";
             Text = "Form1";
+            MouseDown += Registr_MouseDown;
+            MouseMove += Registr_MouseMove;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ResumeLayout(false);
@@ -183,6 +195,6 @@
         private Label label3;
         private Button Exit;
         private Button buttonRegist;
-        private Label label4;
+        private Button closeButton;
     }
 }

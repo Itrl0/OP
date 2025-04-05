@@ -1,28 +1,43 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
+using System.Collections.Generic;
+using System.IO;
 
 namespace OP
 {
     public abstract class User
     {
         public string Username { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
 
-        public User(string username)
+        public User(string username, string email, string password)
         {
             Username = username;
+            Email = email;
+            Password = password;
         }
     }
 
+
     public class RegularUser : User
     {
-        public RegularUser(string username) : base(username) { }
+        public RegularUser(string username, string email, string password)
+            : base(username, email, password) { }
     }
 
     public class AdminUser : User
     {
-        public AdminUser(string username) : base(username) { }
+        public AdminUser(string username, string email, string password)
+            : base(username, email, password) { }
     }
+
+
+
+
 }
