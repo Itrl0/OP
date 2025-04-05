@@ -38,3 +38,9 @@ C:\Users\lutai\Source\Repos\OP\bin\Debug\net8.0-windows\OP.dll
 C:\Users\lutai\Source\Repos\OP\bin\Debug\net8.0-windows\OP.pdb
 C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\OP.genruntimeconfig.cache
 C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\ref\OP.dll
+C:\Users\lutai\Source\Repos\OP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\OP.csproj.AssemblyReference.cache
+C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\OP.csproj.Up2Date
+C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\OP.kitchen.resources
+C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\OP.fridgeOpen.resources
+C:\Users\lutai\Source\Repos\OP\obj\Debug\net8.0-windows\OP.recipe.resources
