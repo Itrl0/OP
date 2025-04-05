@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\mtomk\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\mtomk\\.nuget\\packages",
+      "C:\\Users\\lutai\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lutai\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
