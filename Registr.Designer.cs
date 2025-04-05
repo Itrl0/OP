@@ -53,7 +53,6 @@
             label1.Size = new Size(229, 44);
             label1.TabIndex = 1;
             label1.Text = "Авторизація";
-            label1.Click += this.label1_Click;
             // 
             // pictureBox1
             // 
