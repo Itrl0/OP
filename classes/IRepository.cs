@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OP.classes
+namespace OP
 {
-    internal interface IRepository
+    public interface IRepository<T>
     {
+        void Add(T item);
+        void Remove(string name);
+        T GetByName(string name);
+        List<T> GetAll();
     }
 }

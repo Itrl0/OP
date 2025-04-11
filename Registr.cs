@@ -11,6 +11,7 @@ using System.IO;
 using System.Xml;
 using Newtonsoft.Json;
 using static System.Windows.Forms.DataFormats;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace OP
 {
@@ -52,9 +53,32 @@ namespace OP
 
         private void Exit_Click(object sender, EventArgs e)
         {
-            kitchen kitchenForm = new kitchen(); // створюємо форму Kitchen
-            kitchenForm.Show();                 // показуємо її
-            this.Hide();
+            string username = email_box.Text.Trim();
+            string password = password_box.Text;
+
+            // з Json тирим
+            UserData.LoadUsers();
+
+            var user = UserData.Users.FirstOrDefault(u => u.Username == username);
+
+            if (user != null && PasswordHelper.VerifyPassword(password, user.PasswordHash))
+            {
+                // якщо норм наклацав то відкриється далі
+                kitchen kitchenForm = new kitchen();
+                kitchenForm.Show();
+                this.Hide();
+            }
+            else
+            {
+                
+                MessageBox.Show("неправильний логін або пароль!", "помилка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void email_box_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
+

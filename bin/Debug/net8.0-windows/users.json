@@ -2,6 +2,11 @@
   {
     "Username": "",
     "Email": "",
-    "Password": ""
+    "PasswordHash": ""
+  },
+  {
+    "Username": "admin",
+    "Email": "admin@example.com",
+    "PasswordHash": "$2a$11$YVhpfNKVMSfgLpgj6kTZbeF3i5XWDe3hSrogGkoYuQctHvygyz0.m"
   }
 ]
