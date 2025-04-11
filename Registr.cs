@@ -38,7 +38,7 @@ namespace OP
 
         private void closeButton_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Application.Exit();
         }
 
         private void closeButton_MouseDown(object sender, MouseEventArgs e)
@@ -70,12 +70,19 @@ namespace OP
             }
             else
             {
-                
+
                 MessageBox.Show("неправильний логін або пароль!", "помилка", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
-        private void email_box_TextChanged(object sender, EventArgs e)
+        private void buttonRegist_Click(object sender, EventArgs e)
+        {
+            Registr2 Registr2Form = new Registr2();
+            Registr2Form.Show();
+            this.Hide();
+        }
+
+        private void Registr_Load(object sender, EventArgs e)
         {
 
         }

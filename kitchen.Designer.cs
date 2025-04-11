@@ -47,6 +47,7 @@
             kitchenn.SizeMode = PictureBoxSizeMode.StretchImage;
             kitchenn.TabIndex = 0;
             kitchenn.TabStop = false;
+          
             kitchenn.MouseDown += kitchenn_MouseDown;
             kitchenn.MouseMove += kitchenn_MouseMove;
             // 
