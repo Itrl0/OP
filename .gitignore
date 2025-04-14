@@ -1,8 +1,3 @@
 .vs/
-obj/Debug/net8.0-windows/OP.AssemblyInfo.cs
-obj/Debug/net8.0-windows/OP.AssemblyInfoInputs.cache
-<<<<<<< HEAD
-C:\Users\mtomk\source\repos\OP2\obj
-=======
-obj
->>>>>>> Лр4
+obj/
+bin/
