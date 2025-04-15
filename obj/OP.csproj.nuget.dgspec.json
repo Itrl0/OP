@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mtomk\\source\\repos\\OP1\\OP.csproj": {}
+    "C:\\Users\\mtomk\\Source\\Repos\\OP1\\OP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mtomk\\source\\repos\\OP1\\OP.csproj": {
+    "C:\\Users\\mtomk\\Source\\Repos\\OP1\\OP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mtomk\\source\\repos\\OP1\\OP.csproj",
+        "projectUniqueName": "C:\\Users\\mtomk\\Source\\Repos\\OP1\\OP.csproj",
         "projectName": "OP",
-        "projectPath": "C:\\Users\\mtomk\\source\\repos\\OP1\\OP.csproj",
+        "projectPath": "C:\\Users\\mtomk\\Source\\Repos\\OP1\\OP.csproj",
         "packagesPath": "C:\\Users\\mtomk\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mtomk\\source\\repos\\OP1\\obj\\",
         "projectStyle": "PackageReference",
