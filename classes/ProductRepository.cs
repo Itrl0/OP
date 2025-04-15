@@ -1,30 +1,30 @@
 ﻿using OP;
+using OP.classes;
 
-internal class ProductRepository : IRepository<Product>
+public class ProductRepository
 {
-    private List<Product> products = new List<Product>();
+    private readonly IDataStorage<Product> _storage;
 
-    public void Add(Product item)
+    public ProductRepository(IDataStorage<Product> storage)
     {
-        products.Add(item);
+        _storage = storage;
     }
 
-    public void Remove(string name)
+    public void Add(Product product)
     {
-        var product = products.FirstOrDefault(p => p.Name == name);
-        if (product != null)
-        {
-            products.Remove(product);
-        }
+        _storage.Add(product);
+        _storage.Save();
     }
 
-    public Product GetByName(string name)
+    public void RemoveById(int id)
     {
-        return products.FirstOrDefault(p => p.Name == name);
+        _storage.Delete(id);
+        _storage.Save();
     }
 
-    public List<Product> GetAll()
-    {
-        return products;
-    }
+    public Product GetById(int id) => _storage.GetById(id);
+
+    public List<Product> GetAll() => _storage.GetAll();
 }
+
+

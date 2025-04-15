@@ -46,7 +46,7 @@ namespace OP
             recipeForm.Show();                 // показуємо її
             this.Hide();
         }
-        
+
 
         private void kitchenn_MouseMove(object sender, MouseEventArgs e)
         {
@@ -66,5 +66,7 @@ namespace OP
                 lastpoint = new Point(e.X, e.Y);
             }
         }
+
+        
     }
 }
