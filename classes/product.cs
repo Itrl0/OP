@@ -13,8 +13,6 @@ namespace  OP
         public int Quantity { get; set; }
         public DateTime ExpiryDate { get; set; }
 
-        public Product() { } //для десеріалізації
-
         public Product(string name, int quantity)
         {
             Name = name;

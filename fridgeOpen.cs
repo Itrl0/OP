@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OP.classes;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,19 +14,19 @@ namespace OP
 {
     public partial class fridgeOpen : Form
     {
+        private ProductRepository _repository;
         public fridgeOpen()
         {
             InitializeComponent();
 
-
-
-
+            var storage = new JsonStorage<Product>("products.json");
+            _repository = new ProductRepository(storage);
         }
 
         private void back_Click(object sender, EventArgs e)
         {
-            kitchen kitchenForm = new kitchen(); // створюємо форму Kitchen
-            kitchenForm.Show();                 // показуємо її
+            kitchen kitchenForm = new kitchen();
+            kitchenForm.Show();
             this.Hide();
         }
 
@@ -47,15 +48,51 @@ namespace OP
                 this.Top += e.Y - lastpoint.Y;
             }
         }
-        
+
         private void fridgeOpen_MouseDown(object sender, MouseEventArgs e)
         {
             {
                 lastpoint = new Point(e.X, e.Y);
             }
         }
-        
 
-        
+        private void buttonAdd_Click(object sender, EventArgs e)
+        {
+            string name = textBoxName.Text.Trim();
+            if (!int.TryParse(textBoxQuantity.Text.Trim(), out int quantity) || quantity <= 0)
+            {
+                MessageBox.Show("Введіть коректну кількість.");
+                return;
+            }
+
+            if (string.IsNullOrWhiteSpace(name))
+            {
+                MessageBox.Show("Введіть назву продукту.");
+                return;
+            }
+
+            
+            var existingProducts = _repository.GetAll();
+
+            
+            var existingProduct = existingProducts.FirstOrDefault(p => p.Name.Equals(name, StringComparison.OrdinalIgnoreCase));
+
+            if (existingProduct != null)
+            {
+                // Якщо вже є — додаємо кількість
+                existingProduct.Quantity += quantity;
+                _repository.Update(existingProduct); // ← не забудь реалізувати метод Update у репозиторії
+            }
+            else
+            {
+                // Якщо немає — додаємо новий
+                var newProduct = new Product(name, quantity);
+                _repository.Add(newProduct);
+            }
+
+            // Очистити поля
+            textBoxName.Clear();
+            textBoxQuantity.Clear();
+        }
     }
 }

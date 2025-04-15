@@ -22,6 +22,12 @@ public class ProductRepository
         _storage.Save();
     }
 
+    public void Update(Product product)
+    {
+        _storage.Update(product);
+        _storage.Save();
+    }
+
     public Product GetById(int id) => _storage.GetById(id);
 
     public List<Product> GetAll() => _storage.GetAll();
