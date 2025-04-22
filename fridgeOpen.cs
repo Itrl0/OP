@@ -71,10 +71,10 @@ namespace OP
                 return;
             }
 
-            
+
             var existingProducts = _repository.GetAll();
 
-            
+
             var existingProduct = existingProducts.FirstOrDefault(p => p.Name.Equals(name, StringComparison.OrdinalIgnoreCase));
 
             if (existingProduct != null)
@@ -93,6 +93,16 @@ namespace OP
             // Очистити поля
             textBoxName.Clear();
             textBoxQuantity.Clear();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
