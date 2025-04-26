@@ -35,15 +35,15 @@ namespace OP
 
         private void fridge_Click(object sender, EventArgs e)
         {
-            fridgeOpen fridgeOpenForm = new fridgeOpen(); // створюємо форму Kitchen
-            fridgeOpenForm.Show();                 // показуємо її
+            fridgeOpen fridgeOpenForm = new fridgeOpen(); 
+            fridgeOpenForm.Show();                 
             this.Hide();
         }
 
         private void recipe_Click(object sender, EventArgs e)
         {
-            recipe recipeForm = new recipe(); // створюємо форму Kitchen
-            recipeForm.Show();                 // показуємо її
+            menu menuForm = new menu(); 
+            menuForm.Show();                
             this.Hide();
         }
 
@@ -67,6 +67,11 @@ namespace OP
             }
         }
 
-        
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            shelf shelfForm = new shelf(); 
+            shelfForm.Show();                 
+            this.Hide();
+        }
     }
 }

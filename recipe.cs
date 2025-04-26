@@ -49,7 +49,36 @@ namespace OP
             {
                 lastpoint = new Point(e.X, e.Y);
             }
-           
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            recipe2 recipe2Form = new recipe2(); 
+            recipe2Form.Show();                 
+            this.Hide();
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            menu menuForm = new menu();
+            menuForm.Show();
+            this.Hide();
         }
     }
 }
