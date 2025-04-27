@@ -39,6 +39,7 @@
             next_Page = new Button();
             button3 = new Button();
             button2 = new Button();
+            cook = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -103,7 +104,7 @@
             label1.ForeColor = Color.Black;
             label1.Location = new Point(108, 6);
             label1.Name = "label1";
-            label1.Size = new Size(309, 34);
+            label1.Size = new Size(309, 33);
             label1.TabIndex = 34;
             label1.Text = "Назва: Яйця з беконом";
             // 
@@ -180,12 +181,22 @@
             button2.UseVisualStyleBackColor = false;
             button2.Click += button2_Click;
             // 
+            // cook
+            // 
+            cook.Location = new Point(333, 272);
+            cook.Name = "cook";
+            cook.Size = new Size(105, 29);
+            cook.TabIndex = 103;
+            cook.Text = "приготувати";
+            cook.UseVisualStyleBackColor = true;
+            // 
             // recipe33
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.WhiteSmoke;
             ClientSize = new Size(539, 615);
+            Controls.Add(cook);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(label3);
@@ -215,5 +226,6 @@
         private Button next_Page;
         private Button button3;
         private Button button2;
+        private Button cook;
     }
 }

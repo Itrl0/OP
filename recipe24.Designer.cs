@@ -39,6 +39,7 @@
             button2 = new Button();
             button3 = new Button();
             listBox2 = new ListBox();
+            cook = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -73,7 +74,7 @@
             label1.ForeColor = Color.Black;
             label1.Location = new Point(131, 9);
             label1.Name = "label1";
-            label1.Size = new Size(289, 34);
+            label1.Size = new Size(289, 33);
             label1.TabIndex = 160;
             label1.Text = "Назва: Смажена риба";
             // 
@@ -179,11 +180,21 @@
             listBox2.Size = new Size(516, 220);
             listBox2.TabIndex = 162;
             // 
+            // cook
+            // 
+            cook.Location = new Point(329, 278);
+            cook.Name = "cook";
+            cook.Size = new Size(105, 29);
+            cook.TabIndex = 166;
+            cook.Text = "приготувати";
+            cook.UseVisualStyleBackColor = true;
+            // 
             // recipe24
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(539, 615);
+            Controls.Add(cook);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(label3);
@@ -214,5 +225,6 @@
         private Button button2;
         private Button button3;
         private ListBox listBox2;
+        private Button cook;
     }
 }

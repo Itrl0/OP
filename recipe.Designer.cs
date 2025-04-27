@@ -39,6 +39,7 @@
             label3 = new Label();
             button2 = new Button();
             button3 = new Button();
+            cook = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -103,7 +104,7 @@
             label1.Font = new Font("Sitka Small", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 204);
             label1.Location = new Point(186, 9);
             label1.Name = "label1";
-            label1.Size = new Size(178, 34);
+            label1.Size = new Size(178, 33);
             label1.TabIndex = 20;
             label1.Text = "Назва: Борщ";
             // 
@@ -172,12 +173,22 @@
             button3.UseVisualStyleBackColor = false;
             button3.Click += button3_Click;
             // 
+            // cook
+            // 
+            cook.Location = new Point(391, 278);
+            cook.Name = "cook";
+            cook.Size = new Size(103, 29);
+            cook.TabIndex = 26;
+            cook.Text = "Приготувати";
+            cook.UseVisualStyleBackColor = true;
+            // 
             // recipe
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.WhiteSmoke;
             ClientSize = new Size(539, 615);
+            Controls.Add(cook);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(label3);
@@ -210,5 +221,6 @@
         private Label label3;
         private Button button2;
         private Button button3;
+        private Button cook;
     }
 }

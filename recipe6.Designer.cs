@@ -39,6 +39,7 @@
             listBox1 = new ListBox();
             button3 = new Button();
             button2 = new Button();
+            cook = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -119,7 +120,7 @@
             label1.ForeColor = Color.Black;
             label1.Location = new Point(54, 9);
             label1.Name = "label1";
-            label1.Size = new Size(403, 34);
+            label1.Size = new Size(403, 33);
             label1.TabIndex = 46;
             label1.Text = "Назва: Макарони по-флотськи";
             // 
@@ -179,11 +180,21 @@
             button2.UseVisualStyleBackColor = false;
             button2.Click += button2_Click;
             // 
+            // cook
+            // 
+            cook.Location = new Point(331, 278);
+            cook.Name = "cook";
+            cook.Size = new Size(105, 29);
+            cook.TabIndex = 103;
+            cook.Text = "приготувати";
+            cook.UseVisualStyleBackColor = true;
+            // 
             // recipe6
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(539, 615);
+            Controls.Add(cook);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(label3);
@@ -213,5 +224,6 @@
         private ListBox listBox1;
         private Button button3;
         private Button button2;
+        private Button cook;
     }
 }

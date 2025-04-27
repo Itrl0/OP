@@ -81,16 +81,16 @@ namespace OP
             {
                 // Якщо вже є — додаємо кількість
                 existingProduct.Quantity += quantity;
-                _repository.Update(existingProduct); // ← не забудь реалізувати метод Update у репозиторії
+                _repository.Update(existingProduct); 
             }
             else
             {
-                // Якщо немає — додаємо новий
+                
                 var newProduct = new Product(name, quantity);
                 _repository.Add(newProduct);
             }
 
-            // Очистити поля
+            
             textBoxName.Clear();
             textBoxQuantity.Clear();
         }

@@ -43,6 +43,7 @@
             label5 = new Label();
             button3 = new Button();
             button2 = new Button();
+            cook = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -91,7 +92,7 @@
             label1.ForeColor = Color.Black;
             label1.Location = new Point(95, 9);
             label1.Name = "label1";
-            label1.Size = new Size(348, 34);
+            label1.Size = new Size(348, 33);
             label1.TabIndex = 136;
             label1.Text = "Назва:  Bареники(3 види)";
             // 
@@ -236,11 +237,21 @@
             button2.UseVisualStyleBackColor = false;
             button2.Click += button2_Click;
             // 
+            // cook
+            // 
+            cook.Location = new Point(196, 339);
+            cook.Name = "cook";
+            cook.Size = new Size(105, 29);
+            cook.TabIndex = 146;
+            cook.Text = "приготувати";
+            cook.UseVisualStyleBackColor = true;
+            // 
             // recipe20
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(539, 615);
+            Controls.Add(cook);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(label5);
@@ -279,5 +290,6 @@
         private Label label5;
         private Button button3;
         private Button button2;
+        private Button cook;
     }
 }
