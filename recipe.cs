@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OP.classes;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,6 +13,7 @@ namespace OP
 {
     public partial class recipe : Form
     {
+
         public recipe()
         {
             InitializeComponent();
@@ -54,8 +56,8 @@ namespace OP
 
         private void button1_Click(object sender, EventArgs e)
         {
-            recipe2 recipe2Form = new recipe2(); 
-            recipe2Form.Show();                 
+            recipe2 recipe2Form = new recipe2();
+            recipe2Form.Show();
             this.Hide();
         }
 
@@ -79,6 +81,19 @@ namespace OP
             menu menuForm = new menu();
             menuForm.Show();
             this.Hide();
+        }
+
+        private void cook_Click(object sender, EventArgs e)
+        {
+            // Ініціалізуємо ProductRepository
+            var storage = new JsonStorage<Product>("products.json");
+            var repository = new ProductRepository(storage);
+
+            // Створюємо екземпляр Reduce
+            var reducer = new Reduce(repository);
+
+            // Викликаємо метод (приклад для продукту "Ковбаса" з кількістю 1)
+            reducer.ReduceProductQuantity("Ковбаса", 2);
         }
     }
 }

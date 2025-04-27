@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OP.RecipeClasses;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -46,6 +47,13 @@ namespace OP
         private void pictureBox1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void cook_Click(object sender, EventArgs e)
+        {
+            string jsonFilePath = "products.json"; // Вкажіть шлях до вашого JSON файлу
+            var sirnykyRecipe = new SirnykyRecipe(jsonFilePath);
+            sirnykyRecipe.Cook();
         }
     }
 }

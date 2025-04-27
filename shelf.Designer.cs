@@ -134,6 +134,7 @@
             button49.TabIndex = 22;
             button49.Text = "-";
             button49.UseVisualStyleBackColor = true;
+            button49.Click += button49_Click;
             // 
             // pictureBox25
             // 
@@ -154,6 +155,7 @@
             button50.TabIndex = 20;
             button50.Text = "+";
             button50.UseVisualStyleBackColor = true;
+            button50.Click += button50_Click;
             // 
             // label25
             // 
@@ -195,6 +197,7 @@
             button43.TabIndex = 22;
             button43.Text = "-";
             button43.UseVisualStyleBackColor = true;
+            button43.Click += button43_Click;
             // 
             // pictureBox22
             // 
@@ -215,6 +218,7 @@
             button44.TabIndex = 20;
             button44.Text = "+";
             button44.UseVisualStyleBackColor = true;
+            button44.Click += button44_Click;
             // 
             // label22
             // 
@@ -256,6 +260,7 @@
             button13.TabIndex = 22;
             button13.Text = "-";
             button13.UseVisualStyleBackColor = true;
+            button13.Click += button13_Click;
             // 
             // pictureBox7
             // 
@@ -276,6 +281,7 @@
             button14.TabIndex = 20;
             button14.Text = "+";
             button14.UseVisualStyleBackColor = true;
+            button14.Click += button14_Click;
             // 
             // label7
             // 
@@ -317,6 +323,7 @@
             button45.TabIndex = 22;
             button45.Text = "-";
             button45.UseVisualStyleBackColor = true;
+            button45.Click += button45_Click;
             // 
             // pictureBox23
             // 
@@ -337,6 +344,7 @@
             button46.TabIndex = 20;
             button46.Text = "+";
             button46.UseVisualStyleBackColor = true;
+            button46.Click += button46_Click;
             // 
             // label23
             // 
@@ -378,6 +386,7 @@
             button47.TabIndex = 22;
             button47.Text = "-";
             button47.UseVisualStyleBackColor = true;
+            button47.Click += button47_Click;
             // 
             // pictureBox24
             // 
@@ -398,6 +407,7 @@
             button48.TabIndex = 20;
             button48.Text = "+";
             button48.UseVisualStyleBackColor = true;
+            button48.Click += button48_Click;
             // 
             // label24
             // 
@@ -439,6 +449,7 @@
             button55.TabIndex = 22;
             button55.Text = "-";
             button55.UseVisualStyleBackColor = true;
+            button55.Click += button55_Click;
             // 
             // pictureBox28
             // 
@@ -459,6 +470,7 @@
             button56.TabIndex = 20;
             button56.Text = "+";
             button56.UseVisualStyleBackColor = true;
+            button56.Click += button56_Click;
             // 
             // label28
             // 
@@ -500,6 +512,7 @@
             button1.TabIndex = 22;
             button1.Text = "-";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // pictureBox1
             // 
@@ -520,6 +533,7 @@
             button2.TabIndex = 20;
             button2.Text = "+";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // label1
             // 
@@ -561,6 +575,7 @@
             button3.TabIndex = 22;
             button3.Text = "-";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // pictureBox2
             // 
@@ -581,6 +596,7 @@
             button4.TabIndex = 20;
             button4.Text = "+";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // label2
             // 
@@ -622,6 +638,7 @@
             button5.TabIndex = 22;
             button5.Text = "-";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // pictureBox3
             // 
@@ -642,6 +659,7 @@
             button6.TabIndex = 20;
             button6.Text = "+";
             button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click;
             // 
             // label3
             // 
@@ -683,6 +701,7 @@
             button7.TabIndex = 22;
             button7.Text = "-";
             button7.UseVisualStyleBackColor = true;
+            button7.Click += button7_Click;
             // 
             // pictureBox4
             // 
@@ -703,6 +722,7 @@
             button8.TabIndex = 20;
             button8.Text = "+";
             button8.UseVisualStyleBackColor = true;
+            button8.Click += button8_Click;
             // 
             // label4
             // 

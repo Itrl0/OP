@@ -104,7 +104,7 @@
             label1.Font = new Font("Sitka Small", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 204);
             label1.Location = new Point(186, 9);
             label1.Name = "label1";
-            label1.Size = new Size(178, 34);
+            label1.Size = new Size(178, 33);
             label1.TabIndex = 20;
             label1.Text = "Назва: Борщ";
             // 
@@ -181,6 +181,7 @@
             cook.TabIndex = 26;
             cook.Text = "Приготувати";
             cook.UseVisualStyleBackColor = true;
+            cook.Click += cook_Click;
             // 
             // recipe
             // 

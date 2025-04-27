@@ -64,7 +64,7 @@
     <Compile Update="recipe10.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="recipe9.cs">
+    <Compile Update="plov.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="recipe8.cs">

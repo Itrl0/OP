@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OP.RecipeClasses;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -43,6 +44,11 @@ namespace OP
             menu menuForm = new menu();
             menuForm.Show();
             this.Hide();
+        }
+
+        private void cook_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

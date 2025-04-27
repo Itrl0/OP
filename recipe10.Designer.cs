@@ -188,6 +188,7 @@
             cook.TabIndex = 76;
             cook.Text = "приготувати";
             cook.UseVisualStyleBackColor = true;
+            cook.Click += cook_Click;
             // 
             // recipe10
             // 

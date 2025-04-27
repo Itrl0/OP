@@ -184,187 +184,187 @@ namespace OP
             label31 = new Label();
             textBox30 = new TextBox();
             panel4 = new Panel();
-            button1 = new Button();
+            Reduce6 = new Button();
             pictureBox32 = new PictureBox();
             button3 = new Button();
             label32 = new Label();
             textBox31 = new TextBox();
             panel1 = new Panel();
-            button63 = new Button();
+            Reduce5 = new Button();
             pictureBox33 = new PictureBox();
             button64 = new Button();
             label33 = new Label();
             textBox32 = new TextBox();
             panel2 = new Panel();
-            button65 = new Button();
+            Reduce4 = new Button();
             pictureBox34 = new PictureBox();
             button66 = new Button();
             label34 = new Label();
             textBox33 = new TextBox();
             panel3 = new Panel();
-            button67 = new Button();
+            Reduce3 = new Button();
             pictureBox35 = new PictureBox();
             button68 = new Button();
             label35 = new Label();
             textBox34 = new TextBox();
             panel5 = new Panel();
-            button69 = new Button();
+            Reduce2 = new Button();
             pictureBox36 = new PictureBox();
             button70 = new Button();
             label36 = new Label();
             textBox35 = new TextBox();
             panel6 = new Panel();
-            button71 = new Button();
+            Reduce1 = new Button();
             pictureBox37 = new PictureBox();
             button72 = new Button();
             label37 = new Label();
             textBox36 = new TextBox();
             panel7 = new Panel();
-            button73 = new Button();
+            Reduce = new Button();
             pictureBox38 = new PictureBox();
             button74 = new Button();
             label38 = new Label();
-            textBox37 = new TextBox();
+            quantitytextBox37 = new TextBox();
             panel8 = new Panel();
-            button75 = new Button();
+            Reduce7 = new Button();
             pictureBox39 = new PictureBox();
             button76 = new Button();
             label1 = new Label();
             textBox38 = new TextBox();
             panel9 = new Panel();
-            button77 = new Button();
+            Reduce15 = new Button();
             pictureBox40 = new PictureBox();
             button78 = new Button();
             label39 = new Label();
             textBox39 = new TextBox();
             panel10 = new Panel();
-            button79 = new Button();
+            Reduce23 = new Button();
             pictureBox41 = new PictureBox();
             button80 = new Button();
             label40 = new Label();
             textBox40 = new TextBox();
             panel11 = new Panel();
-            button81 = new Button();
+            Reduce24 = new Button();
             pictureBox42 = new PictureBox();
             button82 = new Button();
             label41 = new Label();
             textBox41 = new TextBox();
             panel12 = new Panel();
-            button83 = new Button();
+            Reduce16 = new Button();
             pictureBox43 = new PictureBox();
             button84 = new Button();
             label42 = new Label();
             textBox42 = new TextBox();
             panel13 = new Panel();
-            button85 = new Button();
+            Reduce8 = new Button();
             pictureBox44 = new PictureBox();
             button86 = new Button();
             label43 = new Label();
             textBox43 = new TextBox();
             panel14 = new Panel();
-            button87 = new Button();
+            Reduce18 = new Button();
             pictureBox45 = new PictureBox();
             button88 = new Button();
             label44 = new Label();
             textBox44 = new TextBox();
             panel15 = new Panel();
-            button89 = new Button();
+            Reduce10 = new Button();
             pictureBox46 = new PictureBox();
             button90 = new Button();
             label45 = new Label();
             textBox45 = new TextBox();
             panel16 = new Panel();
-            button91 = new Button();
+            Reduce9 = new Button();
             pictureBox47 = new PictureBox();
             button92 = new Button();
             label46 = new Label();
             textBox46 = new TextBox();
             panel17 = new Panel();
-            button93 = new Button();
+            Reduce17 = new Button();
             pictureBox48 = new PictureBox();
             button94 = new Button();
             label47 = new Label();
             textBox47 = new TextBox();
             panel18 = new Panel();
-            button95 = new Button();
+            Reduce25 = new Button();
             pictureBox49 = new PictureBox();
             button96 = new Button();
             label48 = new Label();
             textBox48 = new TextBox();
             panel19 = new Panel();
-            button97 = new Button();
+            Reduce26 = new Button();
             pictureBox50 = new PictureBox();
             button98 = new Button();
             label49 = new Label();
             textBox49 = new TextBox();
             panel20 = new Panel();
-            button99 = new Button();
+            Reduce11 = new Button();
             pictureBox51 = new PictureBox();
             button100 = new Button();
             label50 = new Label();
             textBox50 = new TextBox();
             panel21 = new Panel();
-            button101 = new Button();
+            Reduce12 = new Button();
             pictureBox52 = new PictureBox();
             button102 = new Button();
             label51 = new Label();
             textBox51 = new TextBox();
             panel22 = new Panel();
-            button103 = new Button();
+            Reduce13 = new Button();
             pictureBox53 = new PictureBox();
             button104 = new Button();
             label52 = new Label();
             textBox52 = new TextBox();
             panel23 = new Panel();
-            button105 = new Button();
+            Reduce27 = new Button();
             pictureBox54 = new PictureBox();
             button106 = new Button();
             label53 = new Label();
             textBox53 = new TextBox();
             panel24 = new Panel();
-            button107 = new Button();
+            Reduce20 = new Button();
             pictureBox55 = new PictureBox();
             button108 = new Button();
             label54 = new Label();
             textBox54 = new TextBox();
             panel25 = new Panel();
-            button109 = new Button();
+            Reduce21 = new Button();
             pictureBox56 = new PictureBox();
             button110 = new Button();
             label55 = new Label();
             textBox55 = new TextBox();
             panel26 = new Panel();
-            button111 = new Button();
+            Reduce19 = new Button();
             pictureBox57 = new PictureBox();
             button112 = new Button();
             label56 = new Label();
             textBox56 = new TextBox();
             panel27 = new Panel();
-            button113 = new Button();
+            Reduce29 = new Button();
             pictureBox58 = new PictureBox();
             button114 = new Button();
             label57 = new Label();
             textBox57 = new TextBox();
             panel28 = new Panel();
-            button115 = new Button();
+            Reduce28 = new Button();
             pictureBox59 = new PictureBox();
             button116 = new Button();
             label58 = new Label();
             textBox58 = new TextBox();
             panel29 = new Panel();
-            button117 = new Button();
+            Reduce14 = new Button();
             pictureBox60 = new PictureBox();
             button118 = new Button();
             label59 = new Label();
             textBox59 = new TextBox();
             panel30 = new Panel();
-            button119 = new Button();
+            Reduce22 = new Button();
             pictureBox61 = new PictureBox();
             button120 = new Button();
             label60 = new Label();
             textBox60 = new TextBox();
             panel31 = new Panel();
-            button121 = new Button();
+            Reduce30 = new Button();
             pictureBox62 = new PictureBox();
             button122 = new Button();
             label61 = new Label();
@@ -1572,7 +1572,7 @@ namespace OP
             // panel4
             // 
             panel4.BackColor = SystemColors.ButtonFace;
-            panel4.Controls.Add(button1);
+            panel4.Controls.Add(Reduce6);
             panel4.Controls.Add(pictureBox32);
             panel4.Controls.Add(button3);
             panel4.Controls.Add(label32);
@@ -1582,15 +1582,16 @@ namespace OP
             panel4.Size = new Size(114, 149);
             panel4.TabIndex = 35;
             // 
-            // button1
+            // Reduce6
             // 
-            button1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button1.Location = new Point(89, 117);
-            button1.Name = "button1";
-            button1.Size = new Size(20, 29);
-            button1.TabIndex = 22;
-            button1.Text = "-";
-            button1.UseVisualStyleBackColor = true;
+            Reduce6.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce6.Location = new Point(89, 117);
+            Reduce6.Name = "Reduce6";
+            Reduce6.Size = new Size(20, 29);
+            Reduce6.TabIndex = 22;
+            Reduce6.Text = "-";
+            Reduce6.UseVisualStyleBackColor = true;
+            Reduce6.Click += Reduce6_Click;
             // 
             // pictureBox32
             // 
@@ -1611,6 +1612,7 @@ namespace OP
             button3.TabIndex = 20;
             button3.Text = "+";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // label32
             // 
@@ -1633,7 +1635,7 @@ namespace OP
             // panel1
             // 
             panel1.BackColor = SystemColors.ButtonFace;
-            panel1.Controls.Add(button63);
+            panel1.Controls.Add(Reduce5);
             panel1.Controls.Add(pictureBox33);
             panel1.Controls.Add(button64);
             panel1.Controls.Add(label33);
@@ -1643,15 +1645,16 @@ namespace OP
             panel1.Size = new Size(114, 149);
             panel1.TabIndex = 35;
             // 
-            // button63
+            // Reduce5
             // 
-            button63.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button63.Location = new Point(89, 117);
-            button63.Name = "button63";
-            button63.Size = new Size(20, 29);
-            button63.TabIndex = 22;
-            button63.Text = "-";
-            button63.UseVisualStyleBackColor = true;
+            Reduce5.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce5.Location = new Point(89, 117);
+            Reduce5.Name = "Reduce5";
+            Reduce5.Size = new Size(20, 29);
+            Reduce5.TabIndex = 22;
+            Reduce5.Text = "-";
+            Reduce5.UseVisualStyleBackColor = true;
+            Reduce5.Click += Reduce5_Click;
             // 
             // pictureBox33
             // 
@@ -1672,6 +1675,7 @@ namespace OP
             button64.TabIndex = 20;
             button64.Text = "+";
             button64.UseVisualStyleBackColor = true;
+            button64.Click += button64_Click;
             // 
             // label33
             // 
@@ -1694,7 +1698,7 @@ namespace OP
             // panel2
             // 
             panel2.BackColor = SystemColors.ButtonFace;
-            panel2.Controls.Add(button65);
+            panel2.Controls.Add(Reduce4);
             panel2.Controls.Add(pictureBox34);
             panel2.Controls.Add(button66);
             panel2.Controls.Add(label34);
@@ -1704,15 +1708,16 @@ namespace OP
             panel2.Size = new Size(114, 149);
             panel2.TabIndex = 35;
             // 
-            // button65
+            // Reduce4
             // 
-            button65.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button65.Location = new Point(89, 117);
-            button65.Name = "button65";
-            button65.Size = new Size(20, 29);
-            button65.TabIndex = 22;
-            button65.Text = "-";
-            button65.UseVisualStyleBackColor = true;
+            Reduce4.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce4.Location = new Point(89, 117);
+            Reduce4.Name = "Reduce4";
+            Reduce4.Size = new Size(20, 29);
+            Reduce4.TabIndex = 22;
+            Reduce4.Text = "-";
+            Reduce4.UseVisualStyleBackColor = true;
+            Reduce4.Click += Reduce4_Click;
             // 
             // pictureBox34
             // 
@@ -1733,6 +1738,7 @@ namespace OP
             button66.TabIndex = 20;
             button66.Text = "+";
             button66.UseVisualStyleBackColor = true;
+            button66.Click += button66_Click;
             // 
             // label34
             // 
@@ -1755,7 +1761,7 @@ namespace OP
             // panel3
             // 
             panel3.BackColor = SystemColors.ButtonFace;
-            panel3.Controls.Add(button67);
+            panel3.Controls.Add(Reduce3);
             panel3.Controls.Add(pictureBox35);
             panel3.Controls.Add(button68);
             panel3.Controls.Add(label35);
@@ -1765,15 +1771,16 @@ namespace OP
             panel3.Size = new Size(114, 149);
             panel3.TabIndex = 35;
             // 
-            // button67
+            // Reduce3
             // 
-            button67.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button67.Location = new Point(89, 117);
-            button67.Name = "button67";
-            button67.Size = new Size(20, 29);
-            button67.TabIndex = 22;
-            button67.Text = "-";
-            button67.UseVisualStyleBackColor = true;
+            Reduce3.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce3.Location = new Point(89, 117);
+            Reduce3.Name = "Reduce3";
+            Reduce3.Size = new Size(20, 29);
+            Reduce3.TabIndex = 22;
+            Reduce3.Text = "-";
+            Reduce3.UseVisualStyleBackColor = true;
+            Reduce3.Click += button67_Click;
             // 
             // pictureBox35
             // 
@@ -1794,6 +1801,7 @@ namespace OP
             button68.TabIndex = 20;
             button68.Text = "+";
             button68.UseVisualStyleBackColor = true;
+            button68.Click += button68_Click;
             // 
             // label35
             // 
@@ -1816,7 +1824,7 @@ namespace OP
             // panel5
             // 
             panel5.BackColor = SystemColors.ButtonFace;
-            panel5.Controls.Add(button69);
+            panel5.Controls.Add(Reduce2);
             panel5.Controls.Add(pictureBox36);
             panel5.Controls.Add(button70);
             panel5.Controls.Add(label36);
@@ -1826,15 +1834,16 @@ namespace OP
             panel5.Size = new Size(114, 149);
             panel5.TabIndex = 35;
             // 
-            // button69
+            // Reduce2
             // 
-            button69.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button69.Location = new Point(89, 117);
-            button69.Name = "button69";
-            button69.Size = new Size(20, 29);
-            button69.TabIndex = 22;
-            button69.Text = "-";
-            button69.UseVisualStyleBackColor = true;
+            Reduce2.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce2.Location = new Point(89, 117);
+            Reduce2.Name = "Reduce2";
+            Reduce2.Size = new Size(20, 29);
+            Reduce2.TabIndex = 22;
+            Reduce2.Text = "-";
+            Reduce2.UseVisualStyleBackColor = true;
+            Reduce2.Click += Reduce2_Click;
             // 
             // pictureBox36
             // 
@@ -1855,6 +1864,7 @@ namespace OP
             button70.TabIndex = 20;
             button70.Text = "+";
             button70.UseVisualStyleBackColor = true;
+            button70.Click += button70_Click;
             // 
             // label36
             // 
@@ -1877,7 +1887,7 @@ namespace OP
             // panel6
             // 
             panel6.BackColor = SystemColors.ButtonFace;
-            panel6.Controls.Add(button71);
+            panel6.Controls.Add(Reduce1);
             panel6.Controls.Add(pictureBox37);
             panel6.Controls.Add(button72);
             panel6.Controls.Add(label37);
@@ -1887,15 +1897,16 @@ namespace OP
             panel6.Size = new Size(114, 149);
             panel6.TabIndex = 35;
             // 
-            // button71
+            // Reduce1
             // 
-            button71.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button71.Location = new Point(89, 117);
-            button71.Name = "button71";
-            button71.Size = new Size(20, 29);
-            button71.TabIndex = 22;
-            button71.Text = "-";
-            button71.UseVisualStyleBackColor = true;
+            Reduce1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce1.Location = new Point(89, 117);
+            Reduce1.Name = "Reduce1";
+            Reduce1.Size = new Size(20, 29);
+            Reduce1.TabIndex = 22;
+            Reduce1.Text = "-";
+            Reduce1.UseVisualStyleBackColor = true;
+            Reduce1.Click += Reduce1_Click;
             // 
             // pictureBox37
             // 
@@ -1916,6 +1927,7 @@ namespace OP
             button72.TabIndex = 20;
             button72.Text = "+";
             button72.UseVisualStyleBackColor = true;
+            button72.Click += button72_Click;
             // 
             // label37
             // 
@@ -1938,25 +1950,26 @@ namespace OP
             // panel7
             // 
             panel7.BackColor = SystemColors.ButtonFace;
-            panel7.Controls.Add(button73);
+            panel7.Controls.Add(Reduce);
             panel7.Controls.Add(pictureBox38);
             panel7.Controls.Add(button74);
             panel7.Controls.Add(label38);
-            panel7.Controls.Add(textBox37);
+            panel7.Controls.Add(quantitytextBox37);
             panel7.Location = new Point(24, 24);
             panel7.Name = "panel7";
             panel7.Size = new Size(114, 149);
             panel7.TabIndex = 35;
             // 
-            // button73
+            // Reduce
             // 
-            button73.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button73.Location = new Point(89, 117);
-            button73.Name = "button73";
-            button73.Size = new Size(20, 29);
-            button73.TabIndex = 22;
-            button73.Text = "-";
-            button73.UseVisualStyleBackColor = true;
+            Reduce.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce.Location = new Point(89, 117);
+            Reduce.Name = "Reduce";
+            Reduce.Size = new Size(20, 29);
+            Reduce.TabIndex = 22;
+            Reduce.Text = "-";
+            Reduce.UseVisualStyleBackColor = true;
+            Reduce.Click += Reduce_Click;
             // 
             // pictureBox38
             // 
@@ -1977,6 +1990,7 @@ namespace OP
             button74.TabIndex = 20;
             button74.Text = "+";
             button74.UseVisualStyleBackColor = true;
+            button74.Click += button74_Click;
             // 
             // label38
             // 
@@ -1988,18 +2002,18 @@ namespace OP
             label38.TabIndex = 18;
             label38.Text = "Ковбаса";
             // 
-            // textBox37
+            // quantitytextBox37
             // 
-            textBox37.Location = new Point(30, 117);
-            textBox37.Multiline = true;
-            textBox37.Name = "textBox37";
-            textBox37.Size = new Size(53, 28);
-            textBox37.TabIndex = 15;
+            quantitytextBox37.Location = new Point(30, 117);
+            quantitytextBox37.Multiline = true;
+            quantitytextBox37.Name = "quantitytextBox37";
+            quantitytextBox37.Size = new Size(53, 28);
+            quantitytextBox37.TabIndex = 15;
             // 
             // panel8
             // 
             panel8.BackColor = SystemColors.ButtonFace;
-            panel8.Controls.Add(button75);
+            panel8.Controls.Add(Reduce7);
             panel8.Controls.Add(pictureBox39);
             panel8.Controls.Add(button76);
             panel8.Controls.Add(label1);
@@ -2009,15 +2023,16 @@ namespace OP
             panel8.Size = new Size(114, 149);
             panel8.TabIndex = 35;
             // 
-            // button75
+            // Reduce7
             // 
-            button75.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button75.Location = new Point(89, 117);
-            button75.Name = "button75";
-            button75.Size = new Size(20, 29);
-            button75.TabIndex = 22;
-            button75.Text = "-";
-            button75.UseVisualStyleBackColor = true;
+            Reduce7.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce7.Location = new Point(89, 117);
+            Reduce7.Name = "Reduce7";
+            Reduce7.Size = new Size(20, 29);
+            Reduce7.TabIndex = 22;
+            Reduce7.Text = "-";
+            Reduce7.UseVisualStyleBackColor = true;
+            Reduce7.Click += Reduce7_Click;
             // 
             // pictureBox39
             // 
@@ -2038,6 +2053,7 @@ namespace OP
             button76.TabIndex = 20;
             button76.Text = "+";
             button76.UseVisualStyleBackColor = true;
+            button76.Click += button76_Click;
             // 
             // label1
             // 
@@ -2060,7 +2076,7 @@ namespace OP
             // panel9
             // 
             panel9.BackColor = SystemColors.ButtonFace;
-            panel9.Controls.Add(button77);
+            panel9.Controls.Add(Reduce15);
             panel9.Controls.Add(pictureBox40);
             panel9.Controls.Add(button78);
             panel9.Controls.Add(label39);
@@ -2070,15 +2086,16 @@ namespace OP
             panel9.Size = new Size(114, 149);
             panel9.TabIndex = 35;
             // 
-            // button77
+            // Reduce15
             // 
-            button77.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button77.Location = new Point(89, 117);
-            button77.Name = "button77";
-            button77.Size = new Size(20, 29);
-            button77.TabIndex = 22;
-            button77.Text = "-";
-            button77.UseVisualStyleBackColor = true;
+            Reduce15.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce15.Location = new Point(89, 117);
+            Reduce15.Name = "Reduce15";
+            Reduce15.Size = new Size(20, 29);
+            Reduce15.TabIndex = 22;
+            Reduce15.Text = "-";
+            Reduce15.UseVisualStyleBackColor = true;
+            Reduce15.Click += Reduce15_Click;
             // 
             // pictureBox40
             // 
@@ -2099,6 +2116,7 @@ namespace OP
             button78.TabIndex = 20;
             button78.Text = "+";
             button78.UseVisualStyleBackColor = true;
+            button78.Click += button78_Click;
             // 
             // label39
             // 
@@ -2121,7 +2139,7 @@ namespace OP
             // panel10
             // 
             panel10.BackColor = SystemColors.ButtonFace;
-            panel10.Controls.Add(button79);
+            panel10.Controls.Add(Reduce23);
             panel10.Controls.Add(pictureBox41);
             panel10.Controls.Add(button80);
             panel10.Controls.Add(label40);
@@ -2131,15 +2149,16 @@ namespace OP
             panel10.Size = new Size(114, 149);
             panel10.TabIndex = 35;
             // 
-            // button79
+            // Reduce23
             // 
-            button79.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button79.Location = new Point(89, 117);
-            button79.Name = "button79";
-            button79.Size = new Size(20, 29);
-            button79.TabIndex = 22;
-            button79.Text = "-";
-            button79.UseVisualStyleBackColor = true;
+            Reduce23.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce23.Location = new Point(89, 117);
+            Reduce23.Name = "Reduce23";
+            Reduce23.Size = new Size(20, 29);
+            Reduce23.TabIndex = 22;
+            Reduce23.Text = "-";
+            Reduce23.UseVisualStyleBackColor = true;
+            Reduce23.Click += Reduce23_Click;
             // 
             // pictureBox41
             // 
@@ -2160,6 +2179,7 @@ namespace OP
             button80.TabIndex = 20;
             button80.Text = "+";
             button80.UseVisualStyleBackColor = true;
+            button80.Click += button80_Click;
             // 
             // label40
             // 
@@ -2182,7 +2202,7 @@ namespace OP
             // panel11
             // 
             panel11.BackColor = SystemColors.ButtonFace;
-            panel11.Controls.Add(button81);
+            panel11.Controls.Add(Reduce24);
             panel11.Controls.Add(pictureBox42);
             panel11.Controls.Add(button82);
             panel11.Controls.Add(label41);
@@ -2192,15 +2212,16 @@ namespace OP
             panel11.Size = new Size(114, 149);
             panel11.TabIndex = 35;
             // 
-            // button81
+            // Reduce24
             // 
-            button81.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button81.Location = new Point(89, 117);
-            button81.Name = "button81";
-            button81.Size = new Size(20, 29);
-            button81.TabIndex = 22;
-            button81.Text = "-";
-            button81.UseVisualStyleBackColor = true;
+            Reduce24.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce24.Location = new Point(89, 117);
+            Reduce24.Name = "Reduce24";
+            Reduce24.Size = new Size(20, 29);
+            Reduce24.TabIndex = 22;
+            Reduce24.Text = "-";
+            Reduce24.UseVisualStyleBackColor = true;
+            Reduce24.Click += Reduce24_Click;
             // 
             // pictureBox42
             // 
@@ -2221,6 +2242,7 @@ namespace OP
             button82.TabIndex = 20;
             button82.Text = "+";
             button82.UseVisualStyleBackColor = true;
+            button82.Click += button82_Click;
             // 
             // label41
             // 
@@ -2243,7 +2265,7 @@ namespace OP
             // panel12
             // 
             panel12.BackColor = SystemColors.ButtonFace;
-            panel12.Controls.Add(button83);
+            panel12.Controls.Add(Reduce16);
             panel12.Controls.Add(pictureBox43);
             panel12.Controls.Add(button84);
             panel12.Controls.Add(label42);
@@ -2253,15 +2275,16 @@ namespace OP
             panel12.Size = new Size(114, 149);
             panel12.TabIndex = 35;
             // 
-            // button83
+            // Reduce16
             // 
-            button83.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button83.Location = new Point(89, 117);
-            button83.Name = "button83";
-            button83.Size = new Size(20, 29);
-            button83.TabIndex = 22;
-            button83.Text = "-";
-            button83.UseVisualStyleBackColor = true;
+            Reduce16.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce16.Location = new Point(89, 117);
+            Reduce16.Name = "Reduce16";
+            Reduce16.Size = new Size(20, 29);
+            Reduce16.TabIndex = 22;
+            Reduce16.Text = "-";
+            Reduce16.UseVisualStyleBackColor = true;
+            Reduce16.Click += Reduce16_Click;
             // 
             // pictureBox43
             // 
@@ -2282,6 +2305,7 @@ namespace OP
             button84.TabIndex = 20;
             button84.Text = "+";
             button84.UseVisualStyleBackColor = true;
+            button84.Click += button84_Click;
             // 
             // label42
             // 
@@ -2304,7 +2328,7 @@ namespace OP
             // panel13
             // 
             panel13.BackColor = SystemColors.ButtonFace;
-            panel13.Controls.Add(button85);
+            panel13.Controls.Add(Reduce8);
             panel13.Controls.Add(pictureBox44);
             panel13.Controls.Add(button86);
             panel13.Controls.Add(label43);
@@ -2314,15 +2338,16 @@ namespace OP
             panel13.Size = new Size(114, 149);
             panel13.TabIndex = 35;
             // 
-            // button85
+            // Reduce8
             // 
-            button85.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button85.Location = new Point(89, 117);
-            button85.Name = "button85";
-            button85.Size = new Size(20, 29);
-            button85.TabIndex = 22;
-            button85.Text = "-";
-            button85.UseVisualStyleBackColor = true;
+            Reduce8.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce8.Location = new Point(89, 117);
+            Reduce8.Name = "Reduce8";
+            Reduce8.Size = new Size(20, 29);
+            Reduce8.TabIndex = 22;
+            Reduce8.Text = "-";
+            Reduce8.UseVisualStyleBackColor = true;
+            Reduce8.Click += Reduce8_Click;
             // 
             // pictureBox44
             // 
@@ -2343,6 +2368,7 @@ namespace OP
             button86.TabIndex = 20;
             button86.Text = "+";
             button86.UseVisualStyleBackColor = true;
+            button86.Click += button86_Click;
             // 
             // label43
             // 
@@ -2365,7 +2391,7 @@ namespace OP
             // panel14
             // 
             panel14.BackColor = SystemColors.ButtonFace;
-            panel14.Controls.Add(button87);
+            panel14.Controls.Add(Reduce18);
             panel14.Controls.Add(pictureBox45);
             panel14.Controls.Add(button88);
             panel14.Controls.Add(label44);
@@ -2375,15 +2401,16 @@ namespace OP
             panel14.Size = new Size(114, 149);
             panel14.TabIndex = 36;
             // 
-            // button87
+            // Reduce18
             // 
-            button87.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button87.Location = new Point(89, 117);
-            button87.Name = "button87";
-            button87.Size = new Size(20, 29);
-            button87.TabIndex = 22;
-            button87.Text = "-";
-            button87.UseVisualStyleBackColor = true;
+            Reduce18.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce18.Location = new Point(89, 117);
+            Reduce18.Name = "Reduce18";
+            Reduce18.Size = new Size(20, 29);
+            Reduce18.TabIndex = 22;
+            Reduce18.Text = "-";
+            Reduce18.UseVisualStyleBackColor = true;
+            Reduce18.Click += Reduce18_Click;
             // 
             // pictureBox45
             // 
@@ -2404,6 +2431,7 @@ namespace OP
             button88.TabIndex = 20;
             button88.Text = "+";
             button88.UseVisualStyleBackColor = true;
+            button88.Click += button88_Click;
             // 
             // label44
             // 
@@ -2426,7 +2454,7 @@ namespace OP
             // panel15
             // 
             panel15.BackColor = SystemColors.ButtonFace;
-            panel15.Controls.Add(button89);
+            panel15.Controls.Add(Reduce10);
             panel15.Controls.Add(pictureBox46);
             panel15.Controls.Add(button90);
             panel15.Controls.Add(label45);
@@ -2436,15 +2464,16 @@ namespace OP
             panel15.Size = new Size(114, 149);
             panel15.TabIndex = 36;
             // 
-            // button89
+            // Reduce10
             // 
-            button89.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button89.Location = new Point(89, 117);
-            button89.Name = "button89";
-            button89.Size = new Size(20, 29);
-            button89.TabIndex = 22;
-            button89.Text = "-";
-            button89.UseVisualStyleBackColor = true;
+            Reduce10.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce10.Location = new Point(89, 117);
+            Reduce10.Name = "Reduce10";
+            Reduce10.Size = new Size(20, 29);
+            Reduce10.TabIndex = 22;
+            Reduce10.Text = "-";
+            Reduce10.UseVisualStyleBackColor = true;
+            Reduce10.Click += Reduce10_Click;
             // 
             // pictureBox46
             // 
@@ -2465,6 +2494,7 @@ namespace OP
             button90.TabIndex = 20;
             button90.Text = "+";
             button90.UseVisualStyleBackColor = true;
+            button90.Click += button90_Click;
             // 
             // label45
             // 
@@ -2487,7 +2517,7 @@ namespace OP
             // panel16
             // 
             panel16.BackColor = SystemColors.ButtonFace;
-            panel16.Controls.Add(button91);
+            panel16.Controls.Add(Reduce9);
             panel16.Controls.Add(pictureBox47);
             panel16.Controls.Add(button92);
             panel16.Controls.Add(label46);
@@ -2497,15 +2527,16 @@ namespace OP
             panel16.Size = new Size(114, 149);
             panel16.TabIndex = 36;
             // 
-            // button91
+            // Reduce9
             // 
-            button91.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button91.Location = new Point(89, 117);
-            button91.Name = "button91";
-            button91.Size = new Size(20, 29);
-            button91.TabIndex = 22;
-            button91.Text = "-";
-            button91.UseVisualStyleBackColor = true;
+            Reduce9.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce9.Location = new Point(89, 117);
+            Reduce9.Name = "Reduce9";
+            Reduce9.Size = new Size(20, 29);
+            Reduce9.TabIndex = 22;
+            Reduce9.Text = "-";
+            Reduce9.UseVisualStyleBackColor = true;
+            Reduce9.Click += Reduce9_Click;
             // 
             // pictureBox47
             // 
@@ -2526,6 +2557,7 @@ namespace OP
             button92.TabIndex = 20;
             button92.Text = "+";
             button92.UseVisualStyleBackColor = true;
+            button92.Click += button92_Click;
             // 
             // label46
             // 
@@ -2548,7 +2580,7 @@ namespace OP
             // panel17
             // 
             panel17.BackColor = SystemColors.ButtonFace;
-            panel17.Controls.Add(button93);
+            panel17.Controls.Add(Reduce17);
             panel17.Controls.Add(pictureBox48);
             panel17.Controls.Add(button94);
             panel17.Controls.Add(label47);
@@ -2558,15 +2590,16 @@ namespace OP
             panel17.Size = new Size(114, 149);
             panel17.TabIndex = 36;
             // 
-            // button93
+            // Reduce17
             // 
-            button93.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button93.Location = new Point(89, 117);
-            button93.Name = "button93";
-            button93.Size = new Size(20, 29);
-            button93.TabIndex = 22;
-            button93.Text = "-";
-            button93.UseVisualStyleBackColor = true;
+            Reduce17.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce17.Location = new Point(89, 117);
+            Reduce17.Name = "Reduce17";
+            Reduce17.Size = new Size(20, 29);
+            Reduce17.TabIndex = 22;
+            Reduce17.Text = "-";
+            Reduce17.UseVisualStyleBackColor = true;
+            Reduce17.Click += Reduce17_Click;
             // 
             // pictureBox48
             // 
@@ -2587,6 +2620,7 @@ namespace OP
             button94.TabIndex = 20;
             button94.Text = "+";
             button94.UseVisualStyleBackColor = true;
+            button94.Click += button94_Click;
             // 
             // label47
             // 
@@ -2609,7 +2643,7 @@ namespace OP
             // panel18
             // 
             panel18.BackColor = SystemColors.ButtonFace;
-            panel18.Controls.Add(button95);
+            panel18.Controls.Add(Reduce25);
             panel18.Controls.Add(pictureBox49);
             panel18.Controls.Add(button96);
             panel18.Controls.Add(label48);
@@ -2619,15 +2653,16 @@ namespace OP
             panel18.Size = new Size(114, 149);
             panel18.TabIndex = 36;
             // 
-            // button95
+            // Reduce25
             // 
-            button95.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button95.Location = new Point(89, 117);
-            button95.Name = "button95";
-            button95.Size = new Size(20, 29);
-            button95.TabIndex = 22;
-            button95.Text = "-";
-            button95.UseVisualStyleBackColor = true;
+            Reduce25.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce25.Location = new Point(89, 117);
+            Reduce25.Name = "Reduce25";
+            Reduce25.Size = new Size(20, 29);
+            Reduce25.TabIndex = 22;
+            Reduce25.Text = "-";
+            Reduce25.UseVisualStyleBackColor = true;
+            Reduce25.Click += Reduce25_Click;
             // 
             // pictureBox49
             // 
@@ -2648,6 +2683,7 @@ namespace OP
             button96.TabIndex = 20;
             button96.Text = "+";
             button96.UseVisualStyleBackColor = true;
+            button96.Click += button96_Click;
             // 
             // label48
             // 
@@ -2670,7 +2706,7 @@ namespace OP
             // panel19
             // 
             panel19.BackColor = SystemColors.ButtonFace;
-            panel19.Controls.Add(button97);
+            panel19.Controls.Add(Reduce26);
             panel19.Controls.Add(pictureBox50);
             panel19.Controls.Add(button98);
             panel19.Controls.Add(label49);
@@ -2680,15 +2716,16 @@ namespace OP
             panel19.Size = new Size(114, 149);
             panel19.TabIndex = 37;
             // 
-            // button97
+            // Reduce26
             // 
-            button97.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button97.Location = new Point(89, 117);
-            button97.Name = "button97";
-            button97.Size = new Size(20, 29);
-            button97.TabIndex = 22;
-            button97.Text = "-";
-            button97.UseVisualStyleBackColor = true;
+            Reduce26.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce26.Location = new Point(89, 117);
+            Reduce26.Name = "Reduce26";
+            Reduce26.Size = new Size(20, 29);
+            Reduce26.TabIndex = 22;
+            Reduce26.Text = "-";
+            Reduce26.UseVisualStyleBackColor = true;
+            Reduce26.Click += Reduce26_Click;
             // 
             // pictureBox50
             // 
@@ -2709,6 +2746,7 @@ namespace OP
             button98.TabIndex = 20;
             button98.Text = "+";
             button98.UseVisualStyleBackColor = true;
+            button98.Click += button98_Click;
             // 
             // label49
             // 
@@ -2731,7 +2769,7 @@ namespace OP
             // panel20
             // 
             panel20.BackColor = SystemColors.ButtonFace;
-            panel20.Controls.Add(button99);
+            panel20.Controls.Add(Reduce11);
             panel20.Controls.Add(pictureBox51);
             panel20.Controls.Add(button100);
             panel20.Controls.Add(label50);
@@ -2741,15 +2779,16 @@ namespace OP
             panel20.Size = new Size(114, 149);
             panel20.TabIndex = 38;
             // 
-            // button99
+            // Reduce11
             // 
-            button99.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button99.Location = new Point(89, 117);
-            button99.Name = "button99";
-            button99.Size = new Size(20, 29);
-            button99.TabIndex = 22;
-            button99.Text = "-";
-            button99.UseVisualStyleBackColor = true;
+            Reduce11.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce11.Location = new Point(89, 117);
+            Reduce11.Name = "Reduce11";
+            Reduce11.Size = new Size(20, 29);
+            Reduce11.TabIndex = 22;
+            Reduce11.Text = "-";
+            Reduce11.UseVisualStyleBackColor = true;
+            Reduce11.Click += Reduce11_Click;
             // 
             // pictureBox51
             // 
@@ -2770,6 +2809,7 @@ namespace OP
             button100.TabIndex = 20;
             button100.Text = "+";
             button100.UseVisualStyleBackColor = true;
+            button100.Click += button100_Click;
             // 
             // label50
             // 
@@ -2792,7 +2832,7 @@ namespace OP
             // panel21
             // 
             panel21.BackColor = SystemColors.ButtonFace;
-            panel21.Controls.Add(button101);
+            panel21.Controls.Add(Reduce12);
             panel21.Controls.Add(pictureBox52);
             panel21.Controls.Add(button102);
             panel21.Controls.Add(label51);
@@ -2802,15 +2842,16 @@ namespace OP
             panel21.Size = new Size(114, 149);
             panel21.TabIndex = 37;
             // 
-            // button101
+            // Reduce12
             // 
-            button101.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button101.Location = new Point(89, 117);
-            button101.Name = "button101";
-            button101.Size = new Size(20, 29);
-            button101.TabIndex = 22;
-            button101.Text = "-";
-            button101.UseVisualStyleBackColor = true;
+            Reduce12.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce12.Location = new Point(89, 117);
+            Reduce12.Name = "Reduce12";
+            Reduce12.Size = new Size(20, 29);
+            Reduce12.TabIndex = 22;
+            Reduce12.Text = "-";
+            Reduce12.UseVisualStyleBackColor = true;
+            Reduce12.Click += Reduce12_Click;
             // 
             // pictureBox52
             // 
@@ -2831,6 +2872,7 @@ namespace OP
             button102.TabIndex = 20;
             button102.Text = "+";
             button102.UseVisualStyleBackColor = true;
+            button102.Click += button102_Click;
             // 
             // label51
             // 
@@ -2853,7 +2895,7 @@ namespace OP
             // panel22
             // 
             panel22.BackColor = SystemColors.ButtonFace;
-            panel22.Controls.Add(button103);
+            panel22.Controls.Add(Reduce13);
             panel22.Controls.Add(pictureBox53);
             panel22.Controls.Add(button104);
             panel22.Controls.Add(label52);
@@ -2863,15 +2905,16 @@ namespace OP
             panel22.Size = new Size(114, 149);
             panel22.TabIndex = 37;
             // 
-            // button103
+            // Reduce13
             // 
-            button103.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button103.Location = new Point(89, 117);
-            button103.Name = "button103";
-            button103.Size = new Size(20, 29);
-            button103.TabIndex = 22;
-            button103.Text = "-";
-            button103.UseVisualStyleBackColor = true;
+            Reduce13.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce13.Location = new Point(89, 117);
+            Reduce13.Name = "Reduce13";
+            Reduce13.Size = new Size(20, 29);
+            Reduce13.TabIndex = 22;
+            Reduce13.Text = "-";
+            Reduce13.UseVisualStyleBackColor = true;
+            Reduce13.Click += Reduce13_Click;
             // 
             // pictureBox53
             // 
@@ -2892,6 +2935,7 @@ namespace OP
             button104.TabIndex = 20;
             button104.Text = "+";
             button104.UseVisualStyleBackColor = true;
+            button104.Click += button104_Click;
             // 
             // label52
             // 
@@ -2914,7 +2958,7 @@ namespace OP
             // panel23
             // 
             panel23.BackColor = SystemColors.ButtonFace;
-            panel23.Controls.Add(button105);
+            panel23.Controls.Add(Reduce27);
             panel23.Controls.Add(pictureBox54);
             panel23.Controls.Add(button106);
             panel23.Controls.Add(label53);
@@ -2924,15 +2968,16 @@ namespace OP
             panel23.Size = new Size(114, 149);
             panel23.TabIndex = 37;
             // 
-            // button105
+            // Reduce27
             // 
-            button105.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button105.Location = new Point(89, 117);
-            button105.Name = "button105";
-            button105.Size = new Size(20, 29);
-            button105.TabIndex = 22;
-            button105.Text = "-";
-            button105.UseVisualStyleBackColor = true;
+            Reduce27.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce27.Location = new Point(89, 117);
+            Reduce27.Name = "Reduce27";
+            Reduce27.Size = new Size(20, 29);
+            Reduce27.TabIndex = 22;
+            Reduce27.Text = "-";
+            Reduce27.UseVisualStyleBackColor = true;
+            Reduce27.Click += Reduce27_Click;
             // 
             // pictureBox54
             // 
@@ -2953,6 +2998,7 @@ namespace OP
             button106.TabIndex = 20;
             button106.Text = "+";
             button106.UseVisualStyleBackColor = true;
+            button106.Click += button106_Click;
             // 
             // label53
             // 
@@ -2975,7 +3021,7 @@ namespace OP
             // panel24
             // 
             panel24.BackColor = SystemColors.ButtonFace;
-            panel24.Controls.Add(button107);
+            panel24.Controls.Add(Reduce20);
             panel24.Controls.Add(pictureBox55);
             panel24.Controls.Add(button108);
             panel24.Controls.Add(label54);
@@ -2985,15 +3031,16 @@ namespace OP
             panel24.Size = new Size(114, 149);
             panel24.TabIndex = 37;
             // 
-            // button107
+            // Reduce20
             // 
-            button107.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button107.Location = new Point(89, 117);
-            button107.Name = "button107";
-            button107.Size = new Size(20, 29);
-            button107.TabIndex = 22;
-            button107.Text = "-";
-            button107.UseVisualStyleBackColor = true;
+            Reduce20.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce20.Location = new Point(89, 117);
+            Reduce20.Name = "Reduce20";
+            Reduce20.Size = new Size(20, 29);
+            Reduce20.TabIndex = 22;
+            Reduce20.Text = "-";
+            Reduce20.UseVisualStyleBackColor = true;
+            Reduce20.Click += Reduce20_Click;
             // 
             // pictureBox55
             // 
@@ -3014,6 +3061,7 @@ namespace OP
             button108.TabIndex = 20;
             button108.Text = "+";
             button108.UseVisualStyleBackColor = true;
+            button108.Click += button108_Click;
             // 
             // label54
             // 
@@ -3036,7 +3084,7 @@ namespace OP
             // panel25
             // 
             panel25.BackColor = SystemColors.ButtonFace;
-            panel25.Controls.Add(button109);
+            panel25.Controls.Add(Reduce21);
             panel25.Controls.Add(pictureBox56);
             panel25.Controls.Add(button110);
             panel25.Controls.Add(label55);
@@ -3046,15 +3094,16 @@ namespace OP
             panel25.Size = new Size(114, 149);
             panel25.TabIndex = 37;
             // 
-            // button109
+            // Reduce21
             // 
-            button109.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button109.Location = new Point(89, 117);
-            button109.Name = "button109";
-            button109.Size = new Size(20, 29);
-            button109.TabIndex = 22;
-            button109.Text = "-";
-            button109.UseVisualStyleBackColor = true;
+            Reduce21.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce21.Location = new Point(89, 117);
+            Reduce21.Name = "Reduce21";
+            Reduce21.Size = new Size(20, 29);
+            Reduce21.TabIndex = 22;
+            Reduce21.Text = "-";
+            Reduce21.UseVisualStyleBackColor = true;
+            Reduce21.Click += Reduce21_Click;
             // 
             // pictureBox56
             // 
@@ -3075,6 +3124,7 @@ namespace OP
             button110.TabIndex = 20;
             button110.Text = "+";
             button110.UseVisualStyleBackColor = true;
+            button110.Click += button110_Click;
             // 
             // label55
             // 
@@ -3097,7 +3147,7 @@ namespace OP
             // panel26
             // 
             panel26.BackColor = SystemColors.ButtonFace;
-            panel26.Controls.Add(button111);
+            panel26.Controls.Add(Reduce19);
             panel26.Controls.Add(pictureBox57);
             panel26.Controls.Add(button112);
             panel26.Controls.Add(label56);
@@ -3107,15 +3157,16 @@ namespace OP
             panel26.Size = new Size(114, 149);
             panel26.TabIndex = 37;
             // 
-            // button111
+            // Reduce19
             // 
-            button111.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button111.Location = new Point(89, 117);
-            button111.Name = "button111";
-            button111.Size = new Size(20, 29);
-            button111.TabIndex = 22;
-            button111.Text = "-";
-            button111.UseVisualStyleBackColor = true;
+            Reduce19.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce19.Location = new Point(89, 117);
+            Reduce19.Name = "Reduce19";
+            Reduce19.Size = new Size(20, 29);
+            Reduce19.TabIndex = 22;
+            Reduce19.Text = "-";
+            Reduce19.UseVisualStyleBackColor = true;
+            Reduce19.Click += Reduce19_Click;
             // 
             // pictureBox57
             // 
@@ -3136,6 +3187,7 @@ namespace OP
             button112.TabIndex = 20;
             button112.Text = "+";
             button112.UseVisualStyleBackColor = true;
+            button112.Click += button112_Click;
             // 
             // label56
             // 
@@ -3158,7 +3210,7 @@ namespace OP
             // panel27
             // 
             panel27.BackColor = SystemColors.ButtonFace;
-            panel27.Controls.Add(button113);
+            panel27.Controls.Add(Reduce29);
             panel27.Controls.Add(pictureBox58);
             panel27.Controls.Add(button114);
             panel27.Controls.Add(label57);
@@ -3168,15 +3220,16 @@ namespace OP
             panel27.Size = new Size(114, 149);
             panel27.TabIndex = 37;
             // 
-            // button113
+            // Reduce29
             // 
-            button113.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button113.Location = new Point(89, 117);
-            button113.Name = "button113";
-            button113.Size = new Size(20, 29);
-            button113.TabIndex = 22;
-            button113.Text = "-";
-            button113.UseVisualStyleBackColor = true;
+            Reduce29.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce29.Location = new Point(89, 117);
+            Reduce29.Name = "Reduce29";
+            Reduce29.Size = new Size(20, 29);
+            Reduce29.TabIndex = 22;
+            Reduce29.Text = "-";
+            Reduce29.UseVisualStyleBackColor = true;
+            Reduce29.Click += Reduce29_Click;
             // 
             // pictureBox58
             // 
@@ -3197,6 +3250,7 @@ namespace OP
             button114.TabIndex = 20;
             button114.Text = "+";
             button114.UseVisualStyleBackColor = true;
+            button114.Click += button114_Click;
             // 
             // label57
             // 
@@ -3219,7 +3273,7 @@ namespace OP
             // panel28
             // 
             panel28.BackColor = SystemColors.ButtonFace;
-            panel28.Controls.Add(button115);
+            panel28.Controls.Add(Reduce28);
             panel28.Controls.Add(pictureBox59);
             panel28.Controls.Add(button116);
             panel28.Controls.Add(label58);
@@ -3229,15 +3283,16 @@ namespace OP
             panel28.Size = new Size(114, 149);
             panel28.TabIndex = 37;
             // 
-            // button115
+            // Reduce28
             // 
-            button115.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button115.Location = new Point(89, 117);
-            button115.Name = "button115";
-            button115.Size = new Size(20, 29);
-            button115.TabIndex = 22;
-            button115.Text = "-";
-            button115.UseVisualStyleBackColor = true;
+            Reduce28.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce28.Location = new Point(89, 117);
+            Reduce28.Name = "Reduce28";
+            Reduce28.Size = new Size(20, 29);
+            Reduce28.TabIndex = 22;
+            Reduce28.Text = "-";
+            Reduce28.UseVisualStyleBackColor = true;
+            Reduce28.Click += Reduce28_Click;
             // 
             // pictureBox59
             // 
@@ -3258,6 +3313,7 @@ namespace OP
             button116.TabIndex = 20;
             button116.Text = "+";
             button116.UseVisualStyleBackColor = true;
+            button116.Click += button116_Click;
             // 
             // label58
             // 
@@ -3280,7 +3336,7 @@ namespace OP
             // panel29
             // 
             panel29.BackColor = SystemColors.ButtonFace;
-            panel29.Controls.Add(button117);
+            panel29.Controls.Add(Reduce14);
             panel29.Controls.Add(pictureBox60);
             panel29.Controls.Add(button118);
             panel29.Controls.Add(label59);
@@ -3290,15 +3346,16 @@ namespace OP
             panel29.Size = new Size(114, 149);
             panel29.TabIndex = 38;
             // 
-            // button117
+            // Reduce14
             // 
-            button117.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button117.Location = new Point(89, 117);
-            button117.Name = "button117";
-            button117.Size = new Size(20, 29);
-            button117.TabIndex = 22;
-            button117.Text = "-";
-            button117.UseVisualStyleBackColor = true;
+            Reduce14.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce14.Location = new Point(89, 117);
+            Reduce14.Name = "Reduce14";
+            Reduce14.Size = new Size(20, 29);
+            Reduce14.TabIndex = 22;
+            Reduce14.Text = "-";
+            Reduce14.UseVisualStyleBackColor = true;
+            Reduce14.Click += Reduce14_Click;
             // 
             // pictureBox60
             // 
@@ -3319,6 +3376,7 @@ namespace OP
             button118.TabIndex = 20;
             button118.Text = "+";
             button118.UseVisualStyleBackColor = true;
+            button118.Click += button118_Click;
             // 
             // label59
             // 
@@ -3341,7 +3399,7 @@ namespace OP
             // panel30
             // 
             panel30.BackColor = SystemColors.ButtonFace;
-            panel30.Controls.Add(button119);
+            panel30.Controls.Add(Reduce22);
             panel30.Controls.Add(pictureBox61);
             panel30.Controls.Add(button120);
             panel30.Controls.Add(label60);
@@ -3351,15 +3409,16 @@ namespace OP
             panel30.Size = new Size(114, 149);
             panel30.TabIndex = 38;
             // 
-            // button119
+            // Reduce22
             // 
-            button119.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button119.Location = new Point(89, 117);
-            button119.Name = "button119";
-            button119.Size = new Size(20, 29);
-            button119.TabIndex = 22;
-            button119.Text = "-";
-            button119.UseVisualStyleBackColor = true;
+            Reduce22.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce22.Location = new Point(89, 117);
+            Reduce22.Name = "Reduce22";
+            Reduce22.Size = new Size(20, 29);
+            Reduce22.TabIndex = 22;
+            Reduce22.Text = "-";
+            Reduce22.UseVisualStyleBackColor = true;
+            Reduce22.Click += Reduce22_Click;
             // 
             // pictureBox61
             // 
@@ -3380,6 +3439,7 @@ namespace OP
             button120.TabIndex = 20;
             button120.Text = "+";
             button120.UseVisualStyleBackColor = true;
+            button120.Click += button120_Click;
             // 
             // label60
             // 
@@ -3402,7 +3462,7 @@ namespace OP
             // panel31
             // 
             panel31.BackColor = SystemColors.ButtonFace;
-            panel31.Controls.Add(button121);
+            panel31.Controls.Add(Reduce30);
             panel31.Controls.Add(pictureBox62);
             panel31.Controls.Add(button122);
             panel31.Controls.Add(label61);
@@ -3412,15 +3472,16 @@ namespace OP
             panel31.Size = new Size(114, 149);
             panel31.TabIndex = 39;
             // 
-            // button121
+            // Reduce30
             // 
-            button121.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            button121.Location = new Point(89, 117);
-            button121.Name = "button121";
-            button121.Size = new Size(20, 29);
-            button121.TabIndex = 22;
-            button121.Text = "-";
-            button121.UseVisualStyleBackColor = true;
+            Reduce30.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            Reduce30.Location = new Point(89, 117);
+            Reduce30.Name = "Reduce30";
+            Reduce30.Size = new Size(20, 29);
+            Reduce30.TabIndex = 22;
+            Reduce30.Text = "-";
+            Reduce30.UseVisualStyleBackColor = true;
+            Reduce30.Click += Reduce30_Click;
             // 
             // pictureBox62
             // 
@@ -3441,6 +3502,7 @@ namespace OP
             button122.TabIndex = 20;
             button122.Text = "+";
             button122.UseVisualStyleBackColor = true;
+            button122.Click += button122_Click;
             // 
             // label61
             // 
@@ -3785,187 +3847,187 @@ namespace OP
         private Label label31;
         private TextBox textBox30;
         private Panel panel4;
-        private Button button1;
+        private Button Reduce6;
         private PictureBox pictureBox32;
         private Button button3;
         private Label label32;
         private TextBox textBox31;
         private Panel panel1;
-        private Button button63;
+        private Button Reduce5;
         private PictureBox pictureBox33;
         private Button button64;
         private Label label33;
         private TextBox textBox32;
         private Panel panel2;
-        private Button button65;
+        private Button Reduce4;
         private PictureBox pictureBox34;
         private Button button66;
         private Label label34;
         private TextBox textBox33;
         private Panel panel3;
-        private Button button67;
+        private Button Reduce3;
         private PictureBox pictureBox35;
         private Button button68;
         private Label label35;
         private TextBox textBox34;
         private Panel panel5;
-        private Button button69;
+        private Button Reduce2;
         private PictureBox pictureBox36;
         private Button button70;
         private Label label36;
         private TextBox textBox35;
         private Panel panel6;
-        private Button button71;
+        private Button Reduce1;
         private PictureBox pictureBox37;
         private Button button72;
         private Label label37;
         private TextBox textBox36;
         private Panel panel7;
-        private Button button73;
+        private Button Reduce;
         private PictureBox pictureBox38;
         private Button button74;
         private Label label38;
-        private TextBox textBox37;
+        private TextBox quantitytextBox37;
         private Panel panel8;
-        private Button button75;
+        private Button Reduce7;
         private PictureBox pictureBox39;
         private Button button76;
         private Label label1;
         private TextBox textBox38;
         private Panel panel9;
-        private Button button77;
+        private Button Reduce15;
         private PictureBox pictureBox40;
         private Button button78;
         private Label label39;
         private TextBox textBox39;
         private Panel panel10;
-        private Button button79;
+        private Button Reduce23;
         private PictureBox pictureBox41;
         private Button button80;
         private Label label40;
         private TextBox textBox40;
         private Panel panel11;
-        private Button button81;
+        private Button Reduce24;
         private PictureBox pictureBox42;
         private Button button82;
         private Label label41;
         private TextBox textBox41;
         private Panel panel12;
-        private Button button83;
+        private Button Reduce16;
         private PictureBox pictureBox43;
         private Button button84;
         private Label label42;
         private TextBox textBox42;
         private Panel panel13;
-        private Button button85;
+        private Button Reduce8;
         private PictureBox pictureBox44;
         private Button button86;
         private Label label43;
         private TextBox textBox43;
         private Panel panel14;
-        private Button button87;
+        private Button Reduce18;
         private PictureBox pictureBox45;
         private Button button88;
         private Label label44;
         private TextBox textBox44;
         private Panel panel15;
-        private Button button89;
+        private Button Reduce10;
         private PictureBox pictureBox46;
         private Button button90;
         private Label label45;
         private TextBox textBox45;
         private Panel panel16;
-        private Button button91;
+        private Button Reduce9;
         private PictureBox pictureBox47;
         private Button button92;
         private Label label46;
         private TextBox textBox46;
         private Panel panel17;
-        private Button button93;
+        private Button Reduce17;
         private PictureBox pictureBox48;
         private Button button94;
         private Label label47;
         private TextBox textBox47;
         private Panel panel18;
-        private Button button95;
+        private Button Reduce25;
         private PictureBox pictureBox49;
         private Button button96;
         private Label label48;
         private TextBox textBox48;
         private Panel panel19;
-        private Button button97;
+        private Button Reduce26;
         private PictureBox pictureBox50;
         private Button button98;
         private Label label49;
         private TextBox textBox49;
         private Panel panel20;
-        private Button button99;
+        private Button Reduce11;
         private PictureBox pictureBox51;
         private Button button100;
         private Label label50;
         private TextBox textBox50;
         private Panel panel21;
-        private Button button101;
+        private Button Reduce12;
         private PictureBox pictureBox52;
         private Button button102;
         private Label label51;
         private TextBox textBox51;
         private Panel panel22;
-        private Button button103;
+        private Button Reduce13;
         private PictureBox pictureBox53;
         private Button button104;
         private Label label52;
         private TextBox textBox52;
         private Panel panel23;
-        private Button button105;
+        private Button Reduce27;
         private PictureBox pictureBox54;
         private Button button106;
         private Label label53;
         private TextBox textBox53;
         private Panel panel24;
-        private Button button107;
+        private Button Reduce20;
         private PictureBox pictureBox55;
         private Button button108;
         private Label label54;
         private TextBox textBox54;
         private Panel panel25;
-        private Button button109;
+        private Button Reduce21;
         private PictureBox pictureBox56;
         private Button button110;
         private Label label55;
         private TextBox textBox55;
         private Panel panel26;
-        private Button button111;
+        private Button Reduce19;
         private PictureBox pictureBox57;
         private Button button112;
         private Label label56;
         private TextBox textBox56;
         private Panel panel27;
-        private Button button113;
+        private Button Reduce29;
         private PictureBox pictureBox58;
         private Button button114;
         private Label label57;
         private TextBox textBox57;
         private Panel panel28;
-        private Button button115;
+        private Button Reduce28;
         private PictureBox pictureBox59;
         private Button button116;
         private Label label58;
         private TextBox textBox58;
         private Panel panel29;
-        private Button button117;
+        private Button Reduce14;
         private PictureBox pictureBox60;
         private Button button118;
         private Label label59;
         private TextBox textBox59;
         private Panel panel30;
-        private Button button119;
+        private Button Reduce22;
         private PictureBox pictureBox61;
         private Button button120;
         private Label label60;
         private TextBox textBox60;
         private Panel panel31;
-        private Button button121;
+        private Button Reduce30;
         private PictureBox pictureBox62;
         private Button button122;
         private Label label61;
