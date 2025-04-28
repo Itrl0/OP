@@ -12,6 +12,7 @@ using System.Xml;
 using Newtonsoft.Json;
 using static System.Windows.Forms.DataFormats;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
+using MySql.Data.MySqlClient;
 
 namespace OP
 {
@@ -53,26 +54,36 @@ namespace OP
 
         private void Exit_Click(object sender, EventArgs e)
         {
-            string username = email_box.Text.Trim();
+            string username = email_box.Text;
             string password = password_box.Text;
 
-            // з Json тирим
-            UserData.LoadUsers();
+            DB db = new DB();
 
-            var user = UserData.Users.FirstOrDefault(u => u.Username == username);
+            DataTable table = new DataTable();
 
-            if (user != null && PasswordHelper.VerifyPassword(password, user.PasswordHash))
+            MySqlDataAdapter adapter = new MySqlDataAdapter();
+
+            MySqlCommand command = new MySqlCommand("SELECT * FROM `users` WHERE `login` = @login AND `password` = @pass", db.getConnection());
+
+            command.Parameters.Add("@login", MySqlDbType.VarChar).Value = username;
+            command.Parameters.Add("@pass", MySqlDbType.VarChar).Value = password;
+
+            adapter.SelectCommand = command;
+            adapter.Fill(table);
+
+            if (table.Rows.Count > 0)
             {
-                // якщо норм наклацав то відкриється далі
-                kitchen kitchenForm = new kitchen();
-                kitchenForm.Show();
+                kitchen kitchen = new kitchen();
+                kitchen.Show();
                 this.Hide();
+                
             }
-            else
-            {
+            else {
+                MessageBox.Show("No");
+            } 
 
-                MessageBox.Show("неправильний логін або пароль!", "помилка", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
+
+            
         }
 
         private void buttonRegist_Click(object sender, EventArgs e)

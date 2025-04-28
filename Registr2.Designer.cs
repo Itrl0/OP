@@ -61,7 +61,6 @@
             closeButton2.Text = "Закрити";
             closeButton2.UseVisualStyleBackColor = false;
             closeButton2.Click += closeButton2_Click;
-          
             // 
             // buttonRegist
             // 
@@ -91,8 +90,9 @@
             Exit.Name = "Exit";
             Exit.Size = new Size(196, 35);
             Exit.TabIndex = 19;
-            Exit.Text = "Увійти";
+            Exit.Text = "Зареєструватись";
             Exit.UseVisualStyleBackColor = false;
+            Exit.Click += Exit_Click;
             // 
             // label3
             // 
@@ -101,7 +101,7 @@
             label3.Font = new Font("Sitka Small", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
             label3.Location = new Point(282, 237);
             label3.Name = "label3";
-            label3.Size = new Size(85, 23);
+            label3.Size = new Size(85, 21);
             label3.TabIndex = 18;
             label3.Text = "Пароль *";
             // 
@@ -112,7 +112,7 @@
             label2.Font = new Font("Sitka Small", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
             label2.Location = new Point(282, 177);
             label2.Name = "label2";
-            label2.Size = new Size(59, 23);
+            label2.Size = new Size(59, 21);
             label2.TabIndex = 17;
             label2.Text = "Ім'я *";
             // 
@@ -161,7 +161,7 @@
             label1.ForeColor = Color.Crimson;
             label1.Location = new Point(304, 22);
             label1.Name = "label1";
-            label1.Size = new Size(199, 44);
+            label1.Size = new Size(198, 43);
             label1.TabIndex = 12;
             label1.Text = "Реєстрація";
             // 
@@ -172,7 +172,7 @@
             label4.Font = new Font("Sitka Small", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
             label4.Location = new Point(282, 110);
             label4.Name = "label4";
-            label4.Size = new Size(182, 23);
+            label4.Size = new Size(182, 21);
             label4.TabIndex = 24;
             label4.Text = "Електронна пошта *";
             // 
